@@ -1,4 +1,4 @@
-package Gof.Behavioral;
+package gof.behavioral;
 
 import java.util.ArrayList;
 import java.util.List;

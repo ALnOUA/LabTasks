@@ -1,4 +1,4 @@
-package gof.behavioral;
+package Gof.Behavioral;
 
 public class IteratorPattern {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Gof.Structural;
+package gof.structural;
 
 public class Decorator {
     public static void main(String[] args) {

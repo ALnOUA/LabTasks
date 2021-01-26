@@ -1,4 +1,4 @@
-package gof.behavioral;
+package Gof.Behavioral;
 
 public class StrategyPattern {
     public static void main(String[] args) {
