@@ -1,4 +1,4 @@
-package Structural;
+package Gof.Structural;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
