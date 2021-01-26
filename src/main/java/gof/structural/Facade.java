@@ -1,4 +1,4 @@
-package Gof.Structural;
+package gof.structural;
 
 import java.io.IOException;
 import java.nio.file.Files;

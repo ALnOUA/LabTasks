@@ -1,7 +1,5 @@
-package Gof.Creational;
+package gof.Creational;
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;
 

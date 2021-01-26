@@ -1,4 +1,4 @@
-package Gof.Structural;
+package gof.Structural;
 
 public class Bridge {
     public static void main(String[] args) {

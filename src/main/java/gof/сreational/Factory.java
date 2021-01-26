@@ -1,4 +1,4 @@
-package Gof.Creational;
+package gof.Creational;
 
 class Factory{
     public static void main(String[] args) {
