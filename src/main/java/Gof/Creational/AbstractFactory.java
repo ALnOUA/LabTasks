@@ -1,4 +1,4 @@
-package Gof.Creational;
+package gof.creational;
 
 public class AbstractFactory {
     public static void main(String[] args) {
